@@ -1,0 +1,19 @@
+{
+  "name": "electron-hello-world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takesection/electron-hello-world.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/takesection/electron-hello-world/issues"
+  },
+  "homepage": "https://github.com/takesection/electron-hello-world#readme"
+}
